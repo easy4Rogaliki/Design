@@ -1,0 +1,17 @@
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\bin\Debug\DungeonAppMaster.exe.config
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\bin\Debug\DungeonAppMaster.exe
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\bin\Debug\DungeonAppMaster.pdb
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\DungeonAppMaster.csproj.AssemblyReference.cache
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\DungeonAppMaster.csproj.SuggestedBindingRedirects.cache
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\MainWindow.g.cs
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\App.g.cs
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\DungeonAppMaster_MarkupCompile.cache
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\DungeonAppMaster_MarkupCompile.lref
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\MainWindow.baml
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\DungeonAppMaster.g.resources
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\DungeonAppMaster.Properties.Resources.resources
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\DungeonAppMaster.csproj.GenerateResource.cache
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\DungeonAppMaster.csproj.CoreCompileInputs.cache
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\DungeonAppMaster.exe
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\DungeonAppMaster.pdb
+C:\Users\makievsky\source\repos\DungeonAppMaster\DungeonAppMaster\obj\Debug\App.baml
